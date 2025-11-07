@@ -1,7 +1,7 @@
 <h1 align="center">📝 Sistema de Gestión de Tareas</h1>
 
 <p align="center">
-  <b>Trabajo Práctico Integrador – Fundamentos de Spring Boot</b><br>
+  <b>Trabajo Práctico – Fundamentos de Spring Boot</b><br>
   <i>Ingenieria en Sistemas de Información - Desarrollo de software/i>
 </p>
 
